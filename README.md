@@ -4,7 +4,7 @@ This is my professional portfolio. It uses AWS and React JS.
 
 ## Technologies Used
 
-Chocolately
-Git and Github
-SSH
-React.js
+> Chocolately
+> Git and Github
+> SSH
+> React.js
